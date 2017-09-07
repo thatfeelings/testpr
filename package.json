@@ -1,0 +1,23 @@
+{
+  "name": "testpr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatfeelings/testpr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatfeelings/testpr/issues"
+  },
+  "homepage": "https://github.com/thatfeelings/testpr#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "telebot": "^1.2.3"
+  }
+}
